@@ -1,0 +1,33 @@
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\appsettings.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Dependency Injection Lifetimes.exe
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Dependency Injection Lifetimes.deps.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Dependency Injection Lifetimes.runtimeconfig.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Dependency Injection Lifetimes.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Dependency Injection Lifetimes.pdb
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.csproj.AssemblyReference.cache
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.AssemblyInfoInputs.cache
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.AssemblyInfo.cs
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.csproj.CoreCompileInputs.cache
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets\msbuild.Dependency Injection Lifetimes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets\msbuild.build.Dependency Injection Lifetimes.props
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dependency Injection Lifetimes.props
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dependency Injection Lifetimes.props
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\scopedcss\bundle\Dependency Injection Lifetimes.styles.css
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.csproj.CopyComplete
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\refint\Dependency Injection Lifetimes.dll
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.pdb
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\Dependency Injection Lifetimes.genruntimeconfig.cache
+C:\Users\haciy\RiderProjects\Dependency Injection Lifetimes\Dependency Injection Lifetimes\obj\Debug\net7.0\ref\Dependency Injection Lifetimes.dll
